@@ -6,3 +6,7 @@
 ``` javascript
 const message = "Github markdown file  for communication";
 ```
+
+
+- [X] Learnt Github markdown communication
+- [X] Completed all tasks
